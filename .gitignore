@@ -1,0 +1,12 @@
+*.subject.pdf
+
+compile_flags.txt
+
+# Config Files
+.clang-format
+.clangd
+
+# Generated Files
+obj
+
+start_with_a_few_functions
